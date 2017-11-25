@@ -1,0 +1,10 @@
+build
+composer.phar
+vendor
+docs/_build
+.lintcache
+*.log
+public/.htaccess
+.idea
+behat.yml
+phpunit.xml
