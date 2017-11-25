@@ -17,11 +17,6 @@ Installation guide
     :maxdepth: 2
 
     installation/requirements
-    installation/installation
-    installation/upgrading
-    installation/configuration
-    installation/event_listeners
-    installation/cli
 
 End user guide
 --------------
